@@ -401,7 +401,6 @@ header {
   .hero-text2 {
     font-size: 22px;
   }
-
   .gridbox1,
   .gridbox2,
   .gridbox3,
@@ -440,6 +439,12 @@ header {
   .huudas-t1 {
     font-size: 14px;
   }
+.hero-container{
+    background-image: url(./ipad-iphone1.jpg);
+}
+.iphone16{
+    background-image: url(./ipad-iphone2.jpg);
+}
 }
 @media (max-width: 440px) {
   .banner {
