@@ -445,6 +445,27 @@ header {
 .iphone16{
     background-image: url(./ipad-iphone2.jpg);
 }
+.slide-section{
+    height: 194px;
+    width: 2860px;
+}
+.slide{
+    height: 161px;
+    width: 286px;
+    padding: 0 0 5px 10px ;
+}
+.musicbox{
+    width: 114px;
+    height: 114px;
+}
+.slide3,
+.slide4,
+.slide5,
+.slide6,
+.slide7,
+.slide9 {
+align-items: end;
+}
 }
 @media (max-width: 440px) {
   .banner {
